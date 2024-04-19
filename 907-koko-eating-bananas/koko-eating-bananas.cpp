@@ -8,7 +8,7 @@ bool ok(vector<int> &piles, long long  mid, int h){
     return houres <= h;
 }
     int minEatingSpeed(vector<int>& piles, int h) {
-    long long  l = 1, r = 1e12, ans = -1;
+    long long  l = 1, r = 1e18, ans = -1;
      while(r >= l){
         long long  mid =  ( l + r ) / 2 ;
         int sum = 0;
