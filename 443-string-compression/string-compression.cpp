@@ -12,7 +12,6 @@ public:
             res.push_back(chars[i]);
             string s = to_string(cnt);
             for(auto c : s) res.push_back(c);
-            // res.push_back(cnt + '0');
         }
         else {
             res.push_back(chars[i]);
