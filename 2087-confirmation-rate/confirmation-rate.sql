@@ -1,8 +1,8 @@
 SELECT 
     s.user_id, 
     ROUND(
-    CAST(COUNT(CASE WHEN c.action = 'confirmed' THEN 1 END) AS DECIMAL) / 
-    CAST(COUNT(*) AS DECIMAL) , 2)
+    CAST(COUNT(CASE WHEN c.action = 'confirmed' THEN 1 END) AS FLOAT) / 
+    CAST(COUNT(*) AS FLOAT) , 2)
     AS confirmation_rate
 
     FROM Confirmations c 
