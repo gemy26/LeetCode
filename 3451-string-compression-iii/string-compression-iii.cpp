@@ -8,7 +8,7 @@ public:
             while (j < n && word[j] == word[i] && j - i + 1 <= 9) {
                 j++;
             }
-            comp += to_string(j - i);
+            comp += to_string(j - i );
             comp += word[i];
             i = j;
         }
