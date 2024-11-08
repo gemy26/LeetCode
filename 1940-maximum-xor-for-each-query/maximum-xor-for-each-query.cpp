@@ -1,29 +1,17 @@
 class Solution {
 public:
     vector<int> getMaximumXor(vector<int>& nums, int maximumBit) {
-        // frq for each bit 
-        vector <int> frq(31, 0);
-        for(int i = 0; i < (int) nums.size(); i++){
-            for(int j = 0; j <= 30; j++){
-                if( (nums[i] >> j) & 1){
-                    frq[j] ++;
-                }
-            }
-        }
         vector <int> ans;
-        for(int i = (int) nums.size() - 1; i >= 0 ; i--){
-            int k = 0;
-             for(int j = 0; j <= 30; j++){
-                if(frq[j] % 2 == 0 && j < maximumBit){
-                    k += (1 << j);
-                }
-            }
-            for(int j = 0; j <= 30; j++){
-                if( (nums[i] >> j) & 1){
-                    frq[j] --;
-                }
-            }
-            ans.push_back(k);
+
+        int n=  nums.size();
+        int mask = (1 << maximumBit) - 1;
+
+        for(int i = 1; i < n; i++){
+            nums[i] ^= nums[i - 1];
+        }
+
+        for(int i = 0; i < n; i++){
+            ans.push_back(mask ^ nums[n - i - 1]);
         }
         return ans;
     }
