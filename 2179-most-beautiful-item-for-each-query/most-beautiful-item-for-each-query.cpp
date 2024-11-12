@@ -16,10 +16,10 @@ public:
             prefix[i] = max(prefix[i - 1], items[i][1]);
         }
 
-        for(int i = 0; i < n; i++) {
-            cout << prefix[i] << " "; 
-        }
-        cout << endl;
+        // for(int i = 0; i < n; i++) {
+        //     cout << prefix[i] << " "; 
+        // }
+        //cout << endl;
 
         for (int j = 0; j < q; j++) {
             int l = 0, r = n - 1, mid, ans = -1;
@@ -33,7 +33,7 @@ public:
                     r = mid - 1;
                 }
             }
-            cout << ans << " ";
+            //cout << ans << " ";
             if(ans == -1){
                 res[j] = 0;
             }
