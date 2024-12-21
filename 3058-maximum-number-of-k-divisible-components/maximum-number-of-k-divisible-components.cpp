@@ -12,7 +12,7 @@ public:
         }
         if (sub_tree[node] % k == 0) {
             comp_cnt++;
-            // sub_tree[node] = 0;
+            sub_tree[node] = 0;
         }
     }
 
