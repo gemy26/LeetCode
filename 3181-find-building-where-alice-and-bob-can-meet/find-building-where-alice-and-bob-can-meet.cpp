@@ -1,102 +1,54 @@
+template <typename T> struct sparse {
+    int Log, n;
+    vector<vector<T>> table;
+    function<T(T, T)> merge;
+    template <class U>
+    explicit sparse(vector<T> arr, U merge)
+        : merge(merge), n((int)arr.size()), Log(__lg(arr.size()) + 1),
+          table(Log, vector<T>(n)) {
+        table[0] = arr;
+        for (int l = 1; l < Log; l++) {
+            for (int i = 0; i + (1 << (l - 1)) < n; i++) {
+                table[l][i] =
+                    merge(table[l - 1][i], table[l - 1][i + (1 << (l - 1))]);
+            }
+        }
+    }
+    T query(int l, int r) {
+        if (l > r)
+            return {};
+        int len = __lg(r - l + 1);
+        return merge(table[len][l], table[len][r - (1 << len) + 1]);
+    }
+};
 class Solution {
 public:
-    vector<int> leftmostBuildingQueries(vector<int>& heights,
-                                        vector<vector<int>>& queries) {
-        vector<int> res;
-        res.reserve(queries.size());
-        SegmentTree seg(heights, [](int a, int b) { return max(a, b); });
-
-        for (auto q : queries) {
-            res.push_back(seg.get(q[0] + 1, q[1] + 1));
-        }
-
-        return res;
-    }
-
-    template <class T, class F> class SegmentTree {
-    private:
-        struct node {
-            int mx;
-            node *left, *right;
-        }* root;
-
-        vector<T> nums;
-        F f;
-        int size;
-
-        void build(node* seg, int l, int r) {
-
-            if (l == r) {
-                seg->mx = nums[l - 1];
-                return;
-            }
-
-            int md = (l + r) >> 1;
-            seg->left = new node;
-            seg->right = new node;
-
-            build(seg->left, l, md);
-            build(seg->right, md + 1, r);
-
-            seg->mx = f(seg->left->mx, seg->right->mx);
-        }
-
-        int get(node* seg, int l, int r, int _l, int _r, int val) {
-
-            if ((_l > r) || (_r < l)) {
-                return 1e9;
-            }
-
-            //            cerr << l << ' ' << r << ' ' << _l << ' ' << _r << ' '
-            //            << seg->mx << ' ' << val << '\n';
-            if (l == r) {
-                if (seg->mx > val)
-                    return l - 1;
-                else
-                    return 1e9;
-            }
-
-            if ((l >= _l) && (r <= _r)) {
-
-                int md = (l + r) >> 1;
-                int mn_idx = 1e9;
-                if (seg->left->mx > val) {
-                    mn_idx = min(mn_idx, get(seg->left, l, md, _l, _r, val));
-                } else if (seg->right->mx > val) {
-                    mn_idx =
-                        min(mn_idx, get(seg->right, md + 1, r, _l, _r, val));
+    vector<int> leftmostBuildingQueries(vector<int>& heights, vector<vector<int>>& queries) {
+        sparse sp(heights, [](int i, int j) -> int {
+            return max(i, j);
+        });
+        int n = heights.size();
+        vector <int> ans(queries.size());
+        for(int i = 0; i < queries.size(); i ++){
+            int a = queries[i][0], b = queries[i][1];
+            if(a > b) swap(a, b);
+            if(a == b || heights[b] > heights[a]) ans[i] = b;
+            else{
+                int l = b, r = n, res = -1;
+                while(r >= l){
+                    int mid = (l + r) / 2;
+                    //if(i == 1) cout << mid << " ";
+                    if(sp.query(b, mid) > max( heights[b] , heights[a] )){
+                        r = mid - 1;
+                        res = mid;
+                    }
+                    else{
+                        l = mid + 1;
+                    }
                 }
-
-                return mn_idx;
+                ans[i] = res;
             }
-
-            int md = (l + r) >> 1;
-            int mn_idx = 1e9;
-            mn_idx = min(mn_idx, get(seg->left, l, md, _l, _r, val));
-            mn_idx = min(mn_idx, get(seg->right, md + 1, r, _l, _r, val));
-
-            return mn_idx;
         }
-
-    public:
-        explicit SegmentTree(const vector<T>& nums, const F& f)
-            : f(f), nums(nums), size(nums.size()), root(new node) {
-            build(root, 1, size);
-        }
-        int get(int l, int r) {
-            if (l > r)
-                swap(l, r);
-
-            if (l == r)
-                return l - 1;
-
-            if (nums[r - 1] > nums[l - 1])
-                return r - 1;
-
-            int val = nums[l - 1];
-            int res = get(root, 1, size, r + 1, size, val);
-
-            return (res == 1e9) ? -1 : res;
-        }
-    };
+        return ans;
+    }
 };
