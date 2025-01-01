@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-score-after-splitting-a-string">Maximum Score After Splitting a String</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given a&nbsp;string <code>s</code>&nbsp;of zeros and ones, <em>return the maximum score after splitting the string into two <strong>non-empty</strong> substrings</em> (i.e. <strong>left</strong> substring and <strong>right</strong> substring).</p>
+<h2><a href="https://leetcode.com/problems/maximum-score-after-splitting-a-string">1537. Maximum Score After Splitting a String</a></h2><h3>Easy</h3><hr><p>Given a&nbsp;string <code>s</code>&nbsp;of zeros and ones, <em>return the maximum score after splitting the string into two <strong>non-empty</strong> substrings</em> (i.e. <strong>left</strong> substring and <strong>right</strong> substring).</p>
 
 <p>The score after splitting a string is the number of <strong>zeros</strong> in the <strong>left</strong> substring plus the number of <strong>ones</strong> in the <strong>right</strong> substring.</p>
 
