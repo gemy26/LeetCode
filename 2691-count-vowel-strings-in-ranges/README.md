@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-vowel-strings-in-ranges">2691. Count Vowel Strings in Ranges</a></h2><h3>Medium</h3><hr><p>You are given a <strong>0-indexed</strong> array of strings <code>words</code> and a 2D array of integers <code>queries</code>.</p>
+<h2><a href="https://leetcode.com/problems/count-vowel-strings-in-ranges">Count Vowel Strings in Ranges</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a <strong>0-indexed</strong> array of strings <code>words</code> and a 2D array of integers <code>queries</code>.</p>
 
 <p>Each query <code>queries[i] = [l<sub>i</sub>, r<sub>i</sub>]</code> asks us to find the number of strings present in the range <code>l<sub>i</sub></code> to <code>r<sub>i</sub></code> (both <strong>inclusive</strong>) of <code>words</code> that start and end with a vowel.</p>
 
