@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/number-of-ways-to-split-array">2358. Number of Ways to Split Array</a></h2><h3>Medium</h3><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> of length <code>n</code>.</p>
+<h2><a href="https://leetcode.com/problems/number-of-ways-to-split-array">Number of Ways to Split Array</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> of length <code>n</code>.</p>
 
 <p><code>nums</code> contains a <strong>valid split</strong> at index <code>i</code> if the following are true:</p>
 
