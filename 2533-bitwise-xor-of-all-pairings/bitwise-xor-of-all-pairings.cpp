@@ -5,11 +5,7 @@ public:
         int ans = 0;
 
         for (auto i : a) {
-            mp[i]++;
-        }
-
-        for (auto& [key, val] : mp) {
-            val *= (int) b.size();
+            mp[i] += b.size();
         }
 
         for (auto i : b) {
