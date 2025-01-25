@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements">3219. Make Lexicographically Smallest Array by Swapping Elements</a></h2><h3>Medium</h3><hr><p>You are given a <strong>0-indexed</strong> array of <strong>positive</strong> integers <code>nums</code> and a <strong>positive</strong> integer <code>limit</code>.</p>
+<h2><a href="https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements">Make Lexicographically Smallest Array by Swapping Elements</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a <strong>0-indexed</strong> array of <strong>positive</strong> integers <code>nums</code> and a <strong>positive</strong> integer <code>limit</code>.</p>
 
 <p>In one operation, you can choose any two indices <code>i</code> and <code>j</code> and swap <code>nums[i]</code> and <code>nums[j]</code> <strong>if</strong> <code>|nums[i] - nums[j]| &lt;= limit</code>.</p>
 
