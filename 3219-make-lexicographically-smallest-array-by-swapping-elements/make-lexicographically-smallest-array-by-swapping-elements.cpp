@@ -16,12 +16,7 @@ public:
             mp[cnt].push_back(nums[i]);
             groups[nums[i]] = cnt;
         }
-
-       
-
-        for (auto i : groups) {
-            cout << i.first << " " << i.second << endl;
-        }
+        
         for (int i = 0; i < nums.size(); i++) {
             ans[i] = mp[groups[original[i]]].front();
             mp[groups[original[i]]].pop_front();
