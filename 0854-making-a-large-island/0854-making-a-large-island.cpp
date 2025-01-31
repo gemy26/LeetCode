@@ -83,7 +83,7 @@ public:
                         ne += dsu.getSize(p);
                     }
                     ans = max(ans, ne);
-                    unique_parents.clear();
+                    //unique_parents.clear();
                 } 
             }
         }
