@@ -179,5 +179,6 @@
 ## Database
 |  |
 | ------- |
+| [0577-employee-bonus](https://github.com/gemy26/LeetCode/tree/master/0577-employee-bonus) |
 | [1801-average-time-of-process-per-machine](https://github.com/gemy26/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
