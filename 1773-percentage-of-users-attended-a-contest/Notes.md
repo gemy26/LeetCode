@@ -1,0 +1,1 @@
+<h2>percentage-of-users-attended-a-contest Notes</h2><hr>[ Time taken: 15 m 24 s ]
