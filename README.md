@@ -41,6 +41,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/gemy26/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/gemy26/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/gemy26/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/gemy26/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/gemy26/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/gemy26/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gemy26/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -62,6 +63,7 @@
 | ------- |
 | [1025-minimum-cost-for-tickets](https://github.com/gemy26/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/gemy26/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/gemy26/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Hash Table
 |  |
 | ------- |
