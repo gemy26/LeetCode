@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/closest-prime-numbers-in-range">2610. Closest Prime Numbers in Range</a></h2><h3>Medium</h3><hr><p>Given two positive integers <code>left</code> and <code>right</code>, find the two integers <code>num1</code> and <code>num2</code> such that:</p>
+<h2><a href="https://leetcode.com/problems/closest-prime-numbers-in-range">Closest Prime Numbers in Range</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Given two positive integers <code>left</code> and <code>right</code>, find the two integers <code>num1</code> and <code>num2</code> such that:</p>
 
 <ul>
 	<li><code>left &lt;= num1 &lt; num2 &lt;= right </code>.</li>
