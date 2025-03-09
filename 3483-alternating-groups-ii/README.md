@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/alternating-groups-ii">3483. Alternating Groups II</a></h2><h3>Medium</h3><hr><p>There is a circle of red and blue tiles. You are given an array of integers <code>colors</code> and an integer <code>k</code>. The color of tile <code>i</code> is represented by <code>colors[i]</code>:</p>
+<h2><a href="https://leetcode.com/problems/alternating-groups-ii">Alternating Groups II</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>There is a circle of red and blue tiles. You are given an array of integers <code>colors</code> and an integer <code>k</code>. The color of tile <code>i</code> is represented by <code>colors[i]</code>:</p>
 
 <ul>
 	<li><code>colors[i] == 0</code> means that tile <code>i</code> is <strong>red</strong>.</li>
