@@ -16,6 +16,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/gemy26/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/gemy26/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/gemy26/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/gemy26/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/gemy26/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/gemy26/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/gemy26/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -76,6 +77,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/gemy26/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/gemy26/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/gemy26/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/gemy26/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -229,6 +231,7 @@
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/gemy26/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2610-closest-prime-numbers-in-range](https://github.com/gemy26/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/gemy26/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/gemy26/LeetCode/tree/master/3680-count-connected-components-in-lcm-graph) |
 ## Simulation
 |  |
