@@ -65,6 +65,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/gemy26/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/gemy26/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/gemy26/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/gemy26/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gemy26/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/gemy26/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3429-special-array-i](https://github.com/gemy26/LeetCode/tree/master/3429-special-array-i) |
@@ -92,6 +93,7 @@
 | [2626-count-the-number-of-good-subarrays](https://github.com/gemy26/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/gemy26/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/gemy26/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/gemy26/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/gemy26/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/gemy26/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/gemy26/LeetCode/tree/master/3680-count-connected-components-in-lcm-graph) |
@@ -263,6 +265,7 @@
 |  |
 | ------- |
 | [2626-count-the-number-of-good-subarrays](https://github.com/gemy26/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/gemy26/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gemy26/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/gemy26/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/gemy26/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
