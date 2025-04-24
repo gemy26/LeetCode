@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/product-sales-analysis-iii">Product Sales Analysis III</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Table: <code>Sales</code></p>
+<h2><a href="https://leetcode.com/problems/product-sales-analysis-iii">1155. Product Sales Analysis III</a></h2><h3>Medium</h3><hr><p>Table: <code>Sales</code></p>
 
 <pre>
 +-------------+-------+
