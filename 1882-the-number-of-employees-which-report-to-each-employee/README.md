@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee">1882. The Number of Employees Which Report to Each Employee</a></h2><h3>Easy</h3><hr><p>Table: <code>Employees</code></p>
+<h2><a href="https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee">The Number of Employees Which Report to Each Employee</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Table: <code>Employees</code></p>
 
 <pre>
 +-------------+----------+
