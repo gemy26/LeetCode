@@ -44,6 +44,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/gemy26/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/gemy26/LeetCode/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/gemy26/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/gemy26/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1396-count-servers-that-communicate](https://github.com/gemy26/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/gemy26/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/gemy26/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -132,6 +133,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/gemy26/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1502-construct-k-palindrome-strings](https://github.com/gemy26/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/gemy26/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Counting
