@@ -82,6 +82,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0806-domino-and-tromino-tiling](https://github.com/gemy26/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/gemy26/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/gemy26/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/gemy26/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
