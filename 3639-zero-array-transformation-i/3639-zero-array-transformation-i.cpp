@@ -12,8 +12,7 @@ public:
         }
         bool ans = true;
         for (int i = 0; i < nums.size(); i++) {
-           // cout << a[i] << " " << nums[i] << endl;
-            ans &= (max(a[i] + nums[i], 0) == 0);
+            ans &= (abs(a[i]) >= nums[i]);
         }
         return ans;
     }
