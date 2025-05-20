@@ -35,6 +35,7 @@
 | [2465-shifting-letters-ii](https://github.com/gemy26/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/gemy26/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gemy26/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3639-zero-array-transformation-i](https://github.com/gemy26/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/gemy26/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Array
 |  |
@@ -82,6 +83,7 @@
 | [3429-special-array-i](https://github.com/gemy26/LeetCode/tree/master/3429-special-array-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gemy26/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/gemy26/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3639-zero-array-transformation-i](https://github.com/gemy26/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/gemy26/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/gemy26/LeetCode/tree/master/3680-count-connected-components-in-lcm-graph) |
 ## Dynamic Programming
