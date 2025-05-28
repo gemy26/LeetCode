@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/divisible-and-non-divisible-sums-difference">3172. Divisible and Non-divisible Sums Difference</a></h2><h3>Easy</h3><hr><p>You are given positive integers <code>n</code> and <code>m</code>.</p>
+<h2><a href="https://leetcode.com/problems/divisible-and-non-divisible-sums-difference">Divisible and Non-divisible Sums Difference</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given positive integers <code>n</code> and <code>m</code>.</p>
 
 <p>Define two integers as follows:</p>
 
