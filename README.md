@@ -294,6 +294,7 @@
 | [3243-count-the-number-of-powerful-integers](https://github.com/gemy26/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/gemy26/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/gemy26/LeetCode/tree/master/3680-count-connected-components-in-lcm-graph) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/gemy26/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -327,4 +328,8 @@
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/gemy26/LeetCode/tree/master/2050-count-good-numbers) |
+## Combinatorics
+|  |
+| ------- |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/gemy26/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 <!---LeetCode Topics End-->
