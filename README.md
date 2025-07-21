@@ -9,6 +9,7 @@
 | [0038-count-and-say](https://github.com/gemy26/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/gemy26/LeetCode/tree/master/0049-group-anagrams) |
 | [0952-word-subsets](https://github.com/gemy26/LeetCode/tree/master/0952-word-subsets) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/gemy26/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1502-construct-k-palindrome-strings](https://github.com/gemy26/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/gemy26/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/gemy26/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -56,6 +57,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/gemy26/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/gemy26/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/gemy26/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/gemy26/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/gemy26/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/gemy26/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gemy26/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -155,6 +157,7 @@
 ## Trie
 |  |
 | ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/gemy26/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/gemy26/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
@@ -244,6 +247,7 @@
 | [0684-redundant-connection](https://github.com/gemy26/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/gemy26/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/gemy26/LeetCode/tree/master/0854-making-a-large-island) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/gemy26/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/gemy26/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/gemy26/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/gemy26/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
