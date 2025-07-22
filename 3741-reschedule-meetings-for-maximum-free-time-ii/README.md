@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii">3741. Reschedule Meetings for Maximum Free Time II</a></h2><h3>Medium</h3><hr><p>You are given an integer <code>eventTime</code> denoting the duration of an event. You are also given two integer arrays <code>startTime</code> and <code>endTime</code>, each of length <code>n</code>.</p>
+<h2><a href="https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii">Reschedule Meetings for Maximum Free Time II</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an integer <code>eventTime</code> denoting the duration of an event. You are also given two integer arrays <code>startTime</code> and <code>endTime</code>, each of length <code>n</code>.</p>
 
 <p>These represent the start and end times of <code>n</code> <strong>non-overlapping</strong> meetings that occur during the event between time <code>t = 0</code> and time <code>t = eventTime</code>, where the <code>i<sup>th</sup></code> meeting occurs during the time <code>[startTime[i], endTime[i]].</code></p>
 
