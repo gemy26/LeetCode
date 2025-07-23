@@ -14,6 +14,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/gemy26/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/gemy26/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/gemy26/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/gemy26/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gemy26/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gemy26/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/gemy26/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -181,6 +182,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gemy26/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/gemy26/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/gemy26/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/gemy26/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/gemy26/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/gemy26/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gemy26/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -203,6 +205,7 @@
 ## Stack
 |  |
 | ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/gemy26/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/gemy26/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gemy26/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Brainteaser
