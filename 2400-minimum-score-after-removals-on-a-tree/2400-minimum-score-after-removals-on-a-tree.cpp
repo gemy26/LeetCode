@@ -53,13 +53,13 @@ public:
              vector<int>& nums, vector<set<int>>& descendants, int& timer) {
         XOR[v] = nums[v];
         in[v] = ++timer;
-        descendants[v].insert(v);
+        // descendants[v].insert(v);
         for (int u : adj[v]) {
             if (u != par) {
                 dfs(u, v, XOR, adj, nums, descendants, timer);
                 XOR[v] ^= XOR[u];
-                descendants[v].insert(descendants[u].begin(),
-                                      descendants[u].end());
+                // descendants[v].insert(descendants[u].begin(),
+                                    //   descendants[u].end());
             }
         }
         out[v] = ++timer;
