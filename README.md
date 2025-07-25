@@ -109,6 +109,7 @@
 | [3680-count-connected-components-in-lcm-graph](https://github.com/gemy26/LeetCode/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/gemy26/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/gemy26/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gemy26/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -146,6 +147,7 @@
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/gemy26/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/gemy26/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/gemy26/LeetCode/tree/master/3680-count-connected-components-in-lcm-graph) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gemy26/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -194,6 +196,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gemy26/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/gemy26/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/gemy26/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gemy26/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting
 |  |
 | ------- |
