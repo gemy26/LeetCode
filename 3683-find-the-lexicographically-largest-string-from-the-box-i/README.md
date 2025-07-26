@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i">3683. Find the Lexicographically Largest String From the Box I</a></h2><h3>Medium</h3><hr><p>You are given a string <code>word</code>, and an integer <code>numFriends</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i">Find the Lexicographically Largest String From the Box I</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a string <code>word</code>, and an integer <code>numFriends</code>.</p>
 
 <p>Alice is organizing a game for her <code>numFriends</code> friends. There are multiple rounds in the game, where in each round:</p>
 
