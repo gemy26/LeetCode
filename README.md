@@ -87,6 +87,7 @@
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/gemy26/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2465-shifting-letters-ii](https://github.com/gemy26/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gemy26/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gemy26/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/gemy26/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/gemy26/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/gemy26/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -158,6 +159,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/gemy26/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/gemy26/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/gemy26/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gemy26/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/gemy26/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/gemy26/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/gemy26/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
@@ -219,6 +221,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gemy26/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/gemy26/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Breadth-First Search
 |  |
