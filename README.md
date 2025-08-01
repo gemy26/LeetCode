@@ -51,6 +51,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/gemy26/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/gemy26/LeetCode/tree/master/0056-merge-intervals) |
+| [0118-pascals-triangle](https://github.com/gemy26/LeetCode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/gemy26/LeetCode/tree/master/0135-candy) |
 | [0287-find-the-duplicate-number](https://github.com/gemy26/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0407-trapping-rain-water-ii](https://github.com/gemy26/LeetCode/tree/master/0407-trapping-rain-water-ii) |
@@ -116,6 +117,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/gemy26/LeetCode/tree/master/0118-pascals-triangle) |
 | [0806-domino-and-tromino-tiling](https://github.com/gemy26/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/gemy26/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/gemy26/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
