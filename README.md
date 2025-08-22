@@ -104,6 +104,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gemy26/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/gemy26/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3429-special-array-i](https://github.com/gemy26/LeetCode/tree/master/3429-special-array-i) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/gemy26/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gemy26/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/gemy26/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/gemy26/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -265,6 +266,7 @@
 | [2145-grid-game](https://github.com/gemy26/LeetCode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/gemy26/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/gemy26/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/gemy26/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Shortest Path
 |  |
 | ------- |
