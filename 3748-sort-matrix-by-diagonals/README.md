@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/sort-matrix-by-diagonals">3748. Sort Matrix by Diagonals</a></h2><h3>Medium</h3><hr><p>You are given an <code>n x n</code> square matrix of integers <code>grid</code>. Return the matrix such that:</p>
+<h2><a href="https://leetcode.com/problems/sort-matrix-by-diagonals">Sort Matrix by Diagonals</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an <code>n x n</code> square matrix of integers <code>grid</code>. Return the matrix such that:</p>
 
 <ul>
 	<li>The diagonals in the <strong>bottom-left triangle</strong> (including the middle diagonal) are sorted in <strong>non-increasing order</strong>.</li>
