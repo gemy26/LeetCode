@@ -1,5 +1,7 @@
 # Write your MySQL query statement below
-WITH first_sale AS(SELECT product_id, MIN(year) first_year FROM sales GROUP BY product_id)
+with minYear AS(
+    select product_id , min(year) as year from Sales group by product_id 
+)
+select Sales.product_id, minYear.year as first_year , quantity , price  from Sales join minYear on Sales.product_id =  minYear.product_id
+where  Sales.year = minYear.year
 
-SELECT sales.product_id, first_year, quantity, price FROM sales join first_sale
-ON first_sale.product_id = sales.product_id and first_sale.first_year = sales.year
