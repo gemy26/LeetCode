@@ -39,6 +39,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gemy26/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gemy26/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/gemy26/LeetCode/tree/master/2145-grid-game) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/gemy26/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2358-number-of-ways-to-split-array](https://github.com/gemy26/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/gemy26/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/gemy26/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -82,6 +83,7 @@
 | [2145-grid-game](https://github.com/gemy26/LeetCode/tree/master/2145-grid-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/gemy26/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/gemy26/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/gemy26/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/gemy26/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/gemy26/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/gemy26/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -357,6 +359,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/gemy26/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/gemy26/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/gemy26/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2665-minimum-time-to-repair-cars](https://github.com/gemy26/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gemy26/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -396,6 +399,7 @@
 |  |
 | ------- |
 | [1813-maximum-erasure-value](https://github.com/gemy26/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/gemy26/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/gemy26/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/gemy26/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gemy26/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
