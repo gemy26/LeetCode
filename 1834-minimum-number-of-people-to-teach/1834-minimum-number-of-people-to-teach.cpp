@@ -3,13 +3,12 @@ public:
     int minimumTeachings(int n, vector<vector<int>>& languages,
                          vector<vector<int>>& friendships) {
 
-        map<int, set<int>> mp, knows;
+        map<int, set<int>> knows;
         set<int> noConn;
         int ans = 1e9;
 
         for (int i = 0; i < languages.size(); i++) {
             for (auto j : languages[i]) {
-                mp[j].insert(i + 1);
                 knows[i + 1].insert(j);
             }
         }
