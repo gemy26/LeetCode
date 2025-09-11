@@ -22,6 +22,7 @@
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/gemy26/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2465-shifting-letters-ii](https://github.com/gemy26/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/gemy26/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2887-sort-vowels-in-a-string](https://github.com/gemy26/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/gemy26/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/gemy26/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gemy26/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -319,6 +320,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/gemy26/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gemy26/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gemy26/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2887-sort-vowels-in-a-string](https://github.com/gemy26/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gemy26/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/gemy26/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gemy26/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
