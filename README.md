@@ -126,6 +126,7 @@
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/gemy26/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/gemy26/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gemy26/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3827-implement-router](https://github.com/gemy26/LeetCode/tree/master/3827-implement-router) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -169,6 +170,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/gemy26/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/gemy26/LeetCode/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gemy26/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3827-implement-router](https://github.com/gemy26/LeetCode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gemy26/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
@@ -375,6 +377,7 @@
 | [2665-minimum-time-to-repair-cars](https://github.com/gemy26/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gemy26/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/gemy26/LeetCode/tree/master/3643-zero-array-transformation-ii) |
+| [3827-implement-router](https://github.com/gemy26/LeetCode/tree/master/3827-implement-router) |
 ## Math
 |  |
 | ------- |
@@ -424,6 +427,7 @@
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gemy26/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/gemy26/LeetCode/tree/master/3827-implement-router) |
 ## Enumeration
 |  |
 | ------- |
@@ -471,4 +475,12 @@
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/gemy26/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+## Design
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/gemy26/LeetCode/tree/master/3827-implement-router) |
+## Ordered Set
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/gemy26/LeetCode/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
