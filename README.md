@@ -8,6 +8,7 @@
 | ------- |
 | [0038-count-and-say](https://github.com/gemy26/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/gemy26/LeetCode/tree/master/0049-group-anagrams) |
+| [0165-compare-version-numbers](https://github.com/gemy26/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0952-word-subsets](https://github.com/gemy26/LeetCode/tree/master/0952-word-subsets) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/gemy26/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gemy26/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -363,6 +364,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/gemy26/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0287-find-the-duplicate-number](https://github.com/gemy26/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/gemy26/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gemy26/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
