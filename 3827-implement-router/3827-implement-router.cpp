@@ -34,10 +34,7 @@ public:
         unique.insert(packet);
         data.push_back(packet);
         while (data.size() > this->limit) {
-            auto deletedPacket = data.front();
-            data.pop_front();
-            unique.erase(deletedPacket);
-            sameDest[deletedPacket.destination].pop_front();
+           forwardPacket();
         }
 
         sameDest[destination].push_back(timestamp);
