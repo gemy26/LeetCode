@@ -6,6 +6,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gemy26/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/gemy26/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/gemy26/LeetCode/tree/master/0049-group-anagrams) |
 | [0165-compare-version-numbers](https://github.com/gemy26/LeetCode/tree/master/0165-compare-version-numbers) |
@@ -133,6 +134,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gemy26/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/gemy26/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/gemy26/LeetCode/tree/master/0120-triangle) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/gemy26/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -369,6 +371,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gemy26/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0165-compare-version-numbers](https://github.com/gemy26/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0287-find-the-duplicate-number](https://github.com/gemy26/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/gemy26/LeetCode/tree/master/0611-valid-triangle-number) |
