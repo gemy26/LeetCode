@@ -96,6 +96,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/gemy26/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/gemy26/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/gemy26/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/gemy26/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/gemy26/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/gemy26/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2465-shifting-letters-ii](https://github.com/gemy26/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -333,6 +334,7 @@
 | [0900-reordered-power-of-2](https://github.com/gemy26/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gemy26/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2215-finding-3-digit-even-numbers](https://github.com/gemy26/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/gemy26/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gemy26/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gemy26/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/gemy26/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
@@ -376,6 +378,7 @@
 | [0287-find-the-duplicate-number](https://github.com/gemy26/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/gemy26/LeetCode/tree/master/0611-valid-triangle-number) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/gemy26/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/gemy26/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gemy26/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/gemy26/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/gemy26/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -385,6 +388,7 @@
 | [0287-find-the-duplicate-number](https://github.com/gemy26/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/gemy26/LeetCode/tree/master/0611-valid-triangle-number) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/gemy26/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/gemy26/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/gemy26/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2665-minimum-time-to-repair-cars](https://github.com/gemy26/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gemy26/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
