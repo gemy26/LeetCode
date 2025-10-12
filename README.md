@@ -121,6 +121,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/gemy26/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/gemy26/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3429-special-array-i](https://github.com/gemy26/LeetCode/tree/master/3429-special-array-i) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/gemy26/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/gemy26/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gemy26/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/gemy26/LeetCode/tree/master/3483-alternating-groups-ii) |
@@ -150,6 +151,7 @@
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/gemy26/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gemy26/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/gemy26/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/gemy26/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/gemy26/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/gemy26/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/gemy26/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -173,6 +175,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/gemy26/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gemy26/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gemy26/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/gemy26/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gemy26/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/gemy26/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/gemy26/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -243,6 +246,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/gemy26/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/gemy26/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gemy26/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/gemy26/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/gemy26/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/gemy26/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gemy26/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -343,6 +347,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gemy26/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/gemy26/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gemy26/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/gemy26/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3748-sort-matrix-by-diagonals](https://github.com/gemy26/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Database
 |  |
@@ -383,6 +388,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/gemy26/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gemy26/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/gemy26/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/gemy26/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/gemy26/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Binary Search
 |  |
@@ -394,6 +400,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/gemy26/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2665-minimum-time-to-repair-cars](https://github.com/gemy26/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gemy26/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/gemy26/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3643-zero-array-transformation-ii](https://github.com/gemy26/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3827-implement-router](https://github.com/gemy26/LeetCode/tree/master/3827-implement-router) |
 ## Math
