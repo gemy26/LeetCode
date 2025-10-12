@@ -66,6 +66,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/gemy26/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/gemy26/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/gemy26/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0739-daily-temperatures](https://github.com/gemy26/LeetCode/tree/master/0739-daily-temperatures) |
 | [0854-making-a-large-island](https://github.com/gemy26/LeetCode/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/gemy26/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/gemy26/LeetCode/tree/master/0952-word-subsets) |
@@ -253,6 +254,7 @@
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/gemy26/LeetCode/tree/master/0739-daily-temperatures) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/gemy26/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/gemy26/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gemy26/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -508,4 +510,8 @@
 |  |
 | ------- |
 | [3827-implement-router](https://github.com/gemy26/LeetCode/tree/master/3827-implement-router) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/gemy26/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
