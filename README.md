@@ -267,6 +267,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/gemy26/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/gemy26/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0684-redundant-connection](https://github.com/gemy26/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/gemy26/LeetCode/tree/master/0820-find-eventual-safe-states) |
@@ -311,6 +312,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/gemy26/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/gemy26/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/gemy26/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/gemy26/LeetCode/tree/master/0854-making-a-large-island) |
@@ -485,6 +487,7 @@
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/gemy26/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/gemy26/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Backtracking
 |  |
@@ -514,4 +517,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/gemy26/LeetCode/tree/master/0739-daily-temperatures) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/gemy26/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
