@@ -19,6 +19,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/gemy26/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gemy26/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gemy26/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2211-count-collisions-on-a-road](https://github.com/gemy26/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/gemy26/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/gemy26/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/gemy26/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -267,6 +268,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/gemy26/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/gemy26/LeetCode/tree/master/0739-daily-temperatures) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/gemy26/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2211-count-collisions-on-a-road](https://github.com/gemy26/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/gemy26/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gemy26/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Brainteaser
@@ -448,6 +450,7 @@
 | ------- |
 | [0498-diagonal-traverse](https://github.com/gemy26/LeetCode/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/gemy26/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2211-count-collisions-on-a-road](https://github.com/gemy26/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2551-apply-operations-to-an-array](https://github.com/gemy26/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Number Theory
 |  |
