@@ -136,6 +136,7 @@
 | [3483-alternating-groups-ii](https://github.com/gemy26/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/gemy26/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/gemy26/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3583-count-special-triplets](https://github.com/gemy26/LeetCode/tree/master/3583-count-special-triplets) |
 | [3639-zero-array-transformation-i](https://github.com/gemy26/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/gemy26/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/gemy26/LeetCode/tree/master/3680-count-connected-components-in-lcm-graph) |
@@ -190,6 +191,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gemy26/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/gemy26/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/gemy26/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3583-count-special-triplets](https://github.com/gemy26/LeetCode/tree/master/3583-count-special-triplets) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/gemy26/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/gemy26/LeetCode/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gemy26/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -260,6 +262,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gemy26/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gemy26/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/gemy26/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3583-count-special-triplets](https://github.com/gemy26/LeetCode/tree/master/3583-count-special-triplets) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/gemy26/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gemy26/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
