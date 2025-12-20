@@ -56,6 +56,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gemy26/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/gemy26/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/gemy26/LeetCode/tree/master/3643-zero-array-transformation-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/gemy26/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Array
 |  |
 | ------- |
@@ -141,6 +142,7 @@
 | [3583-count-special-triplets](https://github.com/gemy26/LeetCode/tree/master/3583-count-special-triplets) |
 | [3639-zero-array-transformation-i](https://github.com/gemy26/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/gemy26/LeetCode/tree/master/3643-zero-array-transformation-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/gemy26/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/gemy26/LeetCode/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/gemy26/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/gemy26/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -478,6 +480,7 @@
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/gemy26/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3483-alternating-groups-ii](https://github.com/gemy26/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/gemy26/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/gemy26/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/gemy26/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Queue
 |  |
