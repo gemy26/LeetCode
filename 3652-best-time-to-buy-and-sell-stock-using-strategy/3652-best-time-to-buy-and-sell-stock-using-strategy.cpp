@@ -11,13 +11,12 @@ public:
         }
          
         long long ans = profit[n];
-        for(int i = k - 1; i < n; i ++){
-            long long l = profit[i - k + 1];
-            long long r = profit[n] - profit[i + 1];
-            long long change = prefix[i + 1] - prefix[i - k / 2 + 1];
-            ans = max(ans, l + r + change);
+        long long res = 0;
+        for(int i = 0; i + k <= n; i ++){
+            long long old = profit[i + k] - profit[i];
+            long long new_profit = prefix[i + k] - prefix[i + k / 2];
+            res = max(res, new_profit - old);
         }
-
-        return ans;
+        return ans + res;
     }
 };
