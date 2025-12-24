@@ -97,6 +97,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/gemy26/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gemy26/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2048-build-array-from-permutation](https://github.com/gemy26/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2054-two-best-non-overlapping-events](https://github.com/gemy26/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/gemy26/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/gemy26/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/gemy26/LeetCode/tree/master/2145-grid-game) |
@@ -163,6 +164,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/gemy26/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/gemy26/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/gemy26/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2054-two-best-non-overlapping-events](https://github.com/gemy26/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/gemy26/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/gemy26/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gemy26/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -312,6 +314,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/gemy26/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gemy26/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/gemy26/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2054-two-best-non-overlapping-events](https://github.com/gemy26/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gemy26/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Matrix
 |  |
@@ -368,6 +371,7 @@
 | [0900-reordered-power-of-2](https://github.com/gemy26/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/gemy26/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gemy26/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2054-two-best-non-overlapping-events](https://github.com/gemy26/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2215-finding-3-digit-even-numbers](https://github.com/gemy26/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/gemy26/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gemy26/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -424,6 +428,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/gemy26/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/gemy26/LeetCode/tree/master/0611-valid-triangle-number) |
+| [2054-two-best-non-overlapping-events](https://github.com/gemy26/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/gemy26/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/gemy26/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/gemy26/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
