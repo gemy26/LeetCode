@@ -10,6 +10,7 @@
 | [0038-count-and-say](https://github.com/gemy26/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/gemy26/LeetCode/tree/master/0049-group-anagrams) |
 | [0165-compare-version-numbers](https://github.com/gemy26/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/gemy26/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0952-word-subsets](https://github.com/gemy26/LeetCode/tree/master/0952-word-subsets) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/gemy26/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gemy26/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -159,6 +160,7 @@
 | [0118-pascals-triangle](https://github.com/gemy26/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/gemy26/LeetCode/tree/master/0120-triangle) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/gemy26/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/gemy26/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0806-domino-and-tromino-tiling](https://github.com/gemy26/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/gemy26/LeetCode/tree/master/0826-soup-servings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/gemy26/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
