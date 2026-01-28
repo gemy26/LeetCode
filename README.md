@@ -62,6 +62,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/gemy26/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/gemy26/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/gemy26/LeetCode/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/gemy26/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -448,6 +449,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/gemy26/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/gemy26/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/gemy26/LeetCode/tree/master/0611-valid-triangle-number) |
 | [2054-two-best-non-overlapping-events](https://github.com/gemy26/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
