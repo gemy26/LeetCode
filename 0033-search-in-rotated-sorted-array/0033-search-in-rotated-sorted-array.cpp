@@ -4,22 +4,23 @@ public:
         int l = 0, r = nums.size() - 1, ans = -1;
         while(r >= l){
             int mid = (l + r) / 2;
-            cout << mid << endl;
             if(nums[mid] == target){
                 ans = mid;
                 break;
             }
-            if(nums[mid] >= nums[l]){
-                if(nums[l] <= target && target < nums[mid]){
+            if(nums[l] <= nums[mid]){
+                if(target < nums[mid] && nums[l] <= target){
                     r = mid - 1;
-                }else{
+                }
+                else{
                     l = mid + 1;
                 }
             }
-            else{
-                if(target > nums[mid] && target <= nums[r]){
-                    l = mid + 1;
-                }else{
+            else {
+                if(target > nums[mid] && nums[r] >= target){
+                   l = mid + 1;
+                }
+                else{
                     r = mid - 1;
                 }
             }
