@@ -154,6 +154,7 @@
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gemy26/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/gemy26/LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3583-count-special-triplets](https://github.com/gemy26/LeetCode/tree/master/3583-count-special-triplets) |
+| [3637-trionic-array-i](https://github.com/gemy26/LeetCode/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/gemy26/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/gemy26/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/gemy26/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
