@@ -17,6 +17,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/gemy26/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/gemy26/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/gemy26/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/gemy26/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/gemy26/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/gemy26/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gemy26/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -499,6 +500,7 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/gemy26/LeetCode/tree/master/0498-diagonal-traverse) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/gemy26/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2048-build-array-from-permutation](https://github.com/gemy26/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2211-count-collisions-on-a-road](https://github.com/gemy26/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2551-apply-operations-to-an-array](https://github.com/gemy26/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -544,6 +546,7 @@
 ## Recursion
 |  |
 | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/gemy26/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/gemy26/LeetCode/tree/master/2050-count-good-numbers) |
 ## Combinatorics
 |  |
