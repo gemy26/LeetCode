@@ -232,6 +232,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/gemy26/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1009-complement-of-base-10-integer](https://github.com/gemy26/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gemy26/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/gemy26/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/gemy26/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
