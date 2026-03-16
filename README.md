@@ -66,6 +66,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gemy26/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/gemy26/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/gemy26/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/gemy26/LeetCode/tree/master/0056-merge-intervals) |
@@ -451,6 +452,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gemy26/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gemy26/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/gemy26/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0287-find-the-duplicate-number](https://github.com/gemy26/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/gemy26/LeetCode/tree/master/0611-valid-triangle-number) |
