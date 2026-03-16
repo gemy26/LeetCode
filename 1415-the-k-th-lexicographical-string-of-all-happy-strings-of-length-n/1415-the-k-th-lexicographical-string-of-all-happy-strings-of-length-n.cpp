@@ -7,29 +7,15 @@ public:
             happy_string.push_back(s);
             return;
         }
-        if(idx){
-            if(s[idx - 1] == 'a'){
-                generate(idx + 1, s + 'b');
-                generate(idx + 1, s + 'c');
-            }
-            else if(s[idx - 1] == 'b'){
-                generate(idx + 1, s + 'a');
-                generate(idx + 1, s + 'c');
-            }
-            else{
-                generate(idx + 1, s + 'a');
-                generate(idx + 1, s + 'b');
-            }
-        }
-        else{
-            generate(idx + 1, "a");
-            generate(idx + 1, "b");
-            generate(idx + 1, "c");
+        for(char ch = 'a'; ch <= 'c'; ch ++){
+            if(s.size() > 0 && ch == s.back()) continue;
+            generate(idx + 1, s + ch);
         }
     }
     string getHappyString(int n, int k) {
         N = n;
         generate(0, "");
+        sort(happy_string.begin(), happy_string.end());
         if(k - 1 >= happy_string.size()){
             return "";
         }
