@@ -83,6 +83,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gemy26/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/gemy26/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/gemy26/LeetCode/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/gemy26/LeetCode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/gemy26/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0407-trapping-rain-water-ii](https://github.com/gemy26/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/gemy26/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -421,6 +422,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/gemy26/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/gemy26/LeetCode/tree/master/0056-merge-intervals) |
+| [0274-h-index](https://github.com/gemy26/LeetCode/tree/master/0274-h-index) |
 | [0611-valid-triangle-number](https://github.com/gemy26/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/gemy26/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/gemy26/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -647,4 +649,8 @@
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/gemy26/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/gemy26/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/gemy26/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
