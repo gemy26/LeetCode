@@ -9,6 +9,7 @@
 | [0005-longest-palindromic-substring](https://github.com/gemy26/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/gemy26/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/gemy26/LeetCode/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/gemy26/LeetCode/tree/master/0068-text-justification) |
 | [0165-compare-version-numbers](https://github.com/gemy26/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/gemy26/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0952-word-subsets](https://github.com/gemy26/LeetCode/tree/master/0952-word-subsets) |
@@ -75,6 +76,7 @@
 | [0049-group-anagrams](https://github.com/gemy26/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/gemy26/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/gemy26/LeetCode/tree/master/0056-merge-intervals) |
+| [0068-text-justification](https://github.com/gemy26/LeetCode/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/gemy26/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/gemy26/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/gemy26/LeetCode/tree/master/0120-triangle) |
@@ -531,6 +533,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/gemy26/LeetCode/tree/master/0068-text-justification) |
 | [0498-diagonal-traverse](https://github.com/gemy26/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/gemy26/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2048-build-array-from-permutation](https://github.com/gemy26/LeetCode/tree/master/2048-build-array-from-permutation) |
