@@ -68,6 +68,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/gemy26/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gemy26/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/gemy26/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/gemy26/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -420,6 +421,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/gemy26/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/gemy26/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/gemy26/LeetCode/tree/master/0056-merge-intervals) |
 | [0274-h-index](https://github.com/gemy26/LeetCode/tree/master/0274-h-index) |
@@ -472,6 +474,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gemy26/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/gemy26/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gemy26/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/gemy26/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0165-compare-version-numbers](https://github.com/gemy26/LeetCode/tree/master/0165-compare-version-numbers) |
