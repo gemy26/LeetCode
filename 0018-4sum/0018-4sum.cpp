@@ -8,7 +8,6 @@ public:
         for(int i = 0; i < n - 3; i ++){
             if(i > 0 && nums[i] == nums[i - 1]) continue;
             for(int j = i + 1; j < n - 2; j ++){
-                // if(nums[j] == nums[i]) continue;
                 int k = j + 1, m = n - 1;
                 long long  curr_tar = (long long)target - (long long)nums[i] - (long long)nums[j];
                 while(k < m){
@@ -19,17 +18,17 @@ public:
                         k ++;
                     }
                     else{
-                        // ans.push_back({nums[i], nums[j], nums[k], nums[m]});
-                        st.insert({nums[i], nums[j], nums[k], nums[m]});
-                        k ++, m --;
-                        //k ++;
-                        // while(nums[k] == nums[k - 1]) k++;
+                        ans.push_back({nums[i], nums[j], nums[k], nums[m]});
+                        int tempIndex1 = k, tempIndex2 = m;
+                        while(k < m && nums[k] == nums[tempIndex1]) k ++;
+                        while(k < m && nums[m] == nums[tempIndex2]) m --;
+                        // cout << "HERE";
                     }
                 }
-                // cout << i << " " << j << " " << k << " " << m << endl;
+                while(j+1 < n && nums[j] == nums[j+1]) j++;
             }
+            while(i+1 < n && nums[i] == nums[i+1]) i++;
         }
-        for(auto i : st) ans.push_back(i);
         return ans;
     }
 };
