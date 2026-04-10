@@ -11,6 +11,7 @@
 | [0049-group-anagrams](https://github.com/gemy26/LeetCode/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/gemy26/LeetCode/tree/master/0068-text-justification) |
 | [0165-compare-version-numbers](https://github.com/gemy26/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0242-valid-anagram](https://github.com/gemy26/LeetCode/tree/master/0242-valid-anagram) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/gemy26/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0952-word-subsets](https://github.com/gemy26/LeetCode/tree/master/0952-word-subsets) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/gemy26/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -215,6 +216,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/gemy26/LeetCode/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/gemy26/LeetCode/tree/master/0242-valid-anagram) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gemy26/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/gemy26/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/gemy26/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -428,6 +430,7 @@
 | [0015-3sum](https://github.com/gemy26/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/gemy26/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/gemy26/LeetCode/tree/master/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/gemy26/LeetCode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/gemy26/LeetCode/tree/master/0274-h-index) |
 | [0611-valid-triangle-number](https://github.com/gemy26/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/gemy26/LeetCode/tree/master/0900-reordered-power-of-2) |
