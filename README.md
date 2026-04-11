@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/gemy26/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/gemy26/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/gemy26/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1590-make-sum-divisible-by-p](https://github.com/gemy26/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/gemy26/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -100,6 +101,7 @@
 | [0611-valid-triangle-number](https://github.com/gemy26/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0739-daily-temperatures](https://github.com/gemy26/LeetCode/tree/master/0739-daily-temperatures) |
 | [0854-making-a-large-island](https://github.com/gemy26/LeetCode/tree/master/0854-making-a-large-island) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/gemy26/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/gemy26/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/gemy26/LeetCode/tree/master/0952-word-subsets) |
 | [0977-squares-of-a-sorted-array](https://github.com/gemy26/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -372,6 +374,7 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/gemy26/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/gemy26/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gemy26/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/gemy26/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/gemy26/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
@@ -515,6 +518,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/gemy26/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/gemy26/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/gemy26/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/gemy26/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2054-two-best-non-overlapping-events](https://github.com/gemy26/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/gemy26/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/gemy26/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -569,6 +573,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/gemy26/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/gemy26/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gemy26/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1813-maximum-erasure-value](https://github.com/gemy26/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/gemy26/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -585,6 +590,7 @@
 ## Queue
 |  |
 | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/gemy26/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gemy26/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3827-implement-router](https://github.com/gemy26/LeetCode/tree/master/3827-implement-router) |
 ## Enumeration
@@ -681,4 +687,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/gemy26/LeetCode/tree/master/0274-h-index) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/gemy26/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
