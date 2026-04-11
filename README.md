@@ -116,6 +116,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/gemy26/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gemy26/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/gemy26/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1512-number-of-good-pairs](https://github.com/gemy26/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1524-string-matching-in-an-array](https://github.com/gemy26/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/gemy26/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/gemy26/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
@@ -233,6 +234,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/gemy26/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/gemy26/LeetCode/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/gemy26/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1512-number-of-good-pairs](https://github.com/gemy26/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1590-make-sum-divisible-by-p](https://github.com/gemy26/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1813-maximum-erasure-value](https://github.com/gemy26/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/gemy26/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -326,6 +328,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/gemy26/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1396-count-servers-that-communicate](https://github.com/gemy26/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/gemy26/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1512-number-of-good-pairs](https://github.com/gemy26/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/gemy26/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gemy26/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gemy26/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -538,6 +541,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gemy26/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/gemy26/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/gemy26/LeetCode/tree/master/1500-count-largest-group) |
+| [1512-number-of-good-pairs](https://github.com/gemy26/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/gemy26/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/gemy26/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2050-count-good-numbers](https://github.com/gemy26/LeetCode/tree/master/2050-count-good-numbers) |
