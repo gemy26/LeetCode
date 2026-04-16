@@ -9,8 +9,6 @@ public:
         }
         for(int i = 1; i <= n; i ++){
             prefix[i] += prefix[i - 1];
-        }
-        for(int i = 1; i <= n; i ++){
             ans[i - 1] = prefix[i];
         }
         return ans;
