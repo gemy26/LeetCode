@@ -8,7 +8,6 @@ public:
             ones += (nums[r] == 1);
             zeros += (nums[r] == 0);
             while (l < r && zeros > k) {
-                ones -= (nums[l] == 1);
                 zeros -= (nums[l] == 0);
                 l ++;
             }
