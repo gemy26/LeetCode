@@ -5,7 +5,6 @@ public:
         int ones = 0, zeros = 0, ans = 0;
         int l = 0, r = 0;
         while (r < n) {
-            ones += (nums[r] == 1);
             zeros += (nums[r] == 0);
             while (l < r && zeros > k) {
                 zeros -= (nums[l] == 0);
