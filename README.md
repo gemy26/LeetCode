@@ -54,6 +54,7 @@
 | [0523-continuous-subarray-sum](https://github.com/gemy26/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/gemy26/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/gemy26/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/gemy26/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/gemy26/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1590-make-sum-divisible-by-p](https://github.com/gemy26/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/gemy26/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -110,6 +111,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/gemy26/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/gemy26/LeetCode/tree/master/0952-word-subsets) |
 | [0977-squares-of-a-sorted-array](https://github.com/gemy26/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/gemy26/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/gemy26/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/gemy26/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/gemy26/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -532,6 +534,7 @@
 | [0287-find-the-duplicate-number](https://github.com/gemy26/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/gemy26/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/gemy26/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/gemy26/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2054-two-best-non-overlapping-events](https://github.com/gemy26/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/gemy26/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/gemy26/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -591,6 +594,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/gemy26/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/gemy26/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/gemy26/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gemy26/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1813-maximum-erasure-value](https://github.com/gemy26/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/gemy26/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
