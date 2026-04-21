@@ -29,12 +29,15 @@ public:
         map<int, map<int, int>> mp;
         for(int i = 0; i < n; i ++){
             int par = find(i);
-            mp[par][source[i]] ++;
+            mp[par][source[i]] += 1;
+            cout << i << " " << par << endl;
         }
+        cout << "---------\n";
         int ans = 0;
         for(int i = 0; i < n; i ++){
-            if(mp[find(i)][target[i]] > 0){
-                mp[find(i)][target[i]] --;
+            cout << i << " " << find(i) << endl;
+            if(mp[find(i)][target[i]]){
+                mp[find(i)][target[i]] -= 1;
             } else{
                 ans ++;
             }
