@@ -131,6 +131,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/gemy26/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/gemy26/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/gemy26/LeetCode/tree/master/1656-count-good-triplets) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/gemy26/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1813-maximum-erasure-value](https://github.com/gemy26/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/gemy26/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/gemy26/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -435,6 +436,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gemy26/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/gemy26/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/gemy26/LeetCode/tree/master/1558-course-schedule-iv) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/gemy26/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/gemy26/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/gemy26/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
@@ -718,4 +720,8 @@
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/gemy26/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Union-Find
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/gemy26/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->
