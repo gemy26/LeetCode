@@ -30,12 +30,12 @@ public:
         for(int i = 0; i < n; i ++){
             int par = find(i);
             mp[par][source[i]] += 1;
-            cout << i << " " << par << endl;
+            // cout << i << " " << par << endl;
         }
-        cout << "---------\n";
+        // cout << "---------\n";
         int ans = 0;
         for(int i = 0; i < n; i ++){
-            cout << i << " " << find(i) << endl;
+            // cout << i << " " << find(i) << endl;
             if(mp[find(i)][target[i]]){
                 mp[find(i)][target[i]] -= 1;
             } else{
