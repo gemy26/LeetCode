@@ -12,6 +12,6 @@ public:
             swap(R, L);
         }
         int diff = L - R;
-        return n - (L + R) + diff;
+        return free + diff;
     }
 };
