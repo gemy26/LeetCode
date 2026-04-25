@@ -4,8 +4,8 @@ public:
         // arr[i] = (frq[nums[i]] - 1) * i - sum + i 
         int n = nums.size();
         vector <long long> arr(n, 0);
-        map <int, long long> frq;
-        map <int, long long> sum;
+        unordered_map <int, long long> frq;
+        unordered_map <int, long long> sum;
         for(int i = 0; i < n; i ++){
             arr[i] += frq[nums[i]] * i - sum[nums[i]];
             frq[nums[i]] ++;
