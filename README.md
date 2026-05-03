@@ -103,6 +103,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/gemy26/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/gemy26/LeetCode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/gemy26/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0396-rotate-function](https://github.com/gemy26/LeetCode/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/gemy26/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0477-total-hamming-distance](https://github.com/gemy26/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0498-diagonal-traverse](https://github.com/gemy26/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -221,6 +222,7 @@
 | [0120-triangle](https://github.com/gemy26/LeetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gemy26/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/gemy26/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0396-rotate-function](https://github.com/gemy26/LeetCode/tree/master/0396-rotate-function) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/gemy26/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0806-domino-and-tromino-tiling](https://github.com/gemy26/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/gemy26/LeetCode/tree/master/0826-soup-servings) |
@@ -565,6 +567,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/gemy26/LeetCode/tree/master/0189-rotate-array) |
+| [0396-rotate-function](https://github.com/gemy26/LeetCode/tree/master/0396-rotate-function) |
 | [0477-total-hamming-distance](https://github.com/gemy26/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0523-continuous-subarray-sum](https://github.com/gemy26/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0826-soup-servings](https://github.com/gemy26/LeetCode/tree/master/0826-soup-servings) |
