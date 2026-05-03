@@ -224,6 +224,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/gemy26/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0396-rotate-function](https://github.com/gemy26/LeetCode/tree/master/0396-rotate-function) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/gemy26/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0788-rotated-digits](https://github.com/gemy26/LeetCode/tree/master/0788-rotated-digits) |
 | [0806-domino-and-tromino-tiling](https://github.com/gemy26/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/gemy26/LeetCode/tree/master/0826-soup-servings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/gemy26/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -570,6 +571,7 @@
 | [0396-rotate-function](https://github.com/gemy26/LeetCode/tree/master/0396-rotate-function) |
 | [0477-total-hamming-distance](https://github.com/gemy26/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0523-continuous-subarray-sum](https://github.com/gemy26/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0788-rotated-digits](https://github.com/gemy26/LeetCode/tree/master/0788-rotated-digits) |
 | [0826-soup-servings](https://github.com/gemy26/LeetCode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/gemy26/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1390-four-divisors](https://github.com/gemy26/LeetCode/tree/master/1390-four-divisors) |
