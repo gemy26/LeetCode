@@ -4,9 +4,15 @@ public:
         vector <int> ans;
         for(auto i : nums){
             int num = i;
-            string str = to_string(i);
-            for(auto j : str){
-                ans.push_back(j - '0');
+            stack <int> digits;
+            while(num > 0){
+                int dig = num % 10;
+                num /= 10;
+                digits.push(dig);
+            }
+            while(!digits.empty()){
+                ans.push_back(digits.top());
+                digits.pop();
             }
         }
         return ans;
