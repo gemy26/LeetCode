@@ -170,6 +170,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gemy26/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/gemy26/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/gemy26/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/gemy26/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/gemy26/LeetCode/tree/master/2615-sum-of-distances) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/gemy26/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2665-minimum-time-to-repair-cars](https://github.com/gemy26/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -607,6 +608,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/gemy26/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2211-count-collisions-on-a-road](https://github.com/gemy26/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2551-apply-operations-to-an-array](https://github.com/gemy26/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/gemy26/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gemy26/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Number Theory
 |  |
