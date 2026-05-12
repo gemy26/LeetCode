@@ -7,9 +7,8 @@ public:
         for (int i = 0; i < n; i ++){
             if(dp[i] == -1) continue;
             for (int j = i + 1; j < n; j ++){
-                if(nums[j] - nums[i] >= -target && nums[j] - nums[i] <= target){
-                    dp[j] = max(dp[j], dp[i] + 1);
-                }
+                int diff = abs(nums[j] - nums[i]);
+                if(diff <= target) dp[j] = max(dp[j], dp[i] + 1);
             }
         }
         return (dp[n - 1] == 0 ? -1 : dp[n - 1]);
