@@ -182,6 +182,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/gemy26/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/gemy26/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/gemy26/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2784-check-if-array-is-good](https://github.com/gemy26/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2792-neighboring-bitwise-xor](https://github.com/gemy26/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gemy26/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/gemy26/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -275,6 +276,7 @@
 | [2626-count-the-number-of-good-subarrays](https://github.com/gemy26/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/gemy26/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/gemy26/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2784-check-if-array-is-good](https://github.com/gemy26/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gemy26/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/gemy26/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gemy26/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -495,6 +497,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/gemy26/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gemy26/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gemy26/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2784-check-if-array-is-good](https://github.com/gemy26/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2887-sort-vowels-in-a-string](https://github.com/gemy26/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/gemy26/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/gemy26/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
