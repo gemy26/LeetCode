@@ -6,13 +6,11 @@ public:
 
         int ans = 0, i = 0, j = 0;
         while (i < n1 && j < n2) {
-            if (j >= i && nums1[i] <= nums2[j]) {
+            if (nums1[i] <= nums2[j]) {
                 ans = max(j - i, ans);
-                j ++;
-            } else if (j >= i)
-                i ++;
-            else
-                j ++;
+                j++;
+            } else
+                i++;
         }
 
         return ans;
