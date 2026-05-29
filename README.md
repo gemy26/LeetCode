@@ -204,6 +204,7 @@
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/gemy26/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gemy26/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/gemy26/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gemy26/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/gemy26/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/gemy26/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/gemy26/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -625,6 +626,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/gemy26/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/gemy26/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/gemy26/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gemy26/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3462-vowels-game-in-a-string](https://github.com/gemy26/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/gemy26/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/gemy26/LeetCode/tree/master/3680-count-connected-components-in-lcm-graph) |
