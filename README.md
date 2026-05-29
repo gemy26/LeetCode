@@ -39,6 +39,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/gemy26/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/gemy26/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gemy26/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/gemy26/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/gemy26/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/gemy26/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gemy26/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -292,6 +293,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gemy26/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/gemy26/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gemy26/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/gemy26/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gemy26/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gemy26/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gemy26/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
