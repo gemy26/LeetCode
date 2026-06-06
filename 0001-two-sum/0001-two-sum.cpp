@@ -15,6 +15,4 @@ public:
        }
        return v;
     }
-
-    
 };
