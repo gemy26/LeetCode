@@ -208,6 +208,7 @@
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/gemy26/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gemy26/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/gemy26/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/gemy26/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gemy26/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/gemy26/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/gemy26/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -431,6 +432,7 @@
 | [1558-course-schedule-iv](https://github.com/gemy26/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/gemy26/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/gemy26/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/gemy26/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph
 |  |
 | ------- |
@@ -446,6 +448,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gemy26/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/gemy26/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/gemy26/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/gemy26/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gemy26/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gemy26/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/gemy26/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -465,6 +468,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/gemy26/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/gemy26/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/gemy26/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/gemy26/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/gemy26/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/gemy26/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Shortest Path
@@ -472,6 +476,7 @@
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/gemy26/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/gemy26/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/gemy26/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/gemy26/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Depth-First Search
 |  |
@@ -778,6 +783,7 @@
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/gemy26/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/gemy26/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/gemy26/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Counting Sort
 |  |
