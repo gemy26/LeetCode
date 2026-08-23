@@ -637,6 +637,7 @@
 | [2050-count-good-numbers](https://github.com/gemy26/LeetCode/tree/master/2050-count-good-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/gemy26/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2610-closest-prime-numbers-in-range](https://github.com/gemy26/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
+| [2769-find-the-maximum-achievable-number](https://github.com/gemy26/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2998-count-symmetric-integers](https://github.com/gemy26/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/gemy26/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/gemy26/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
