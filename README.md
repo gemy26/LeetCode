@@ -657,6 +657,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/gemy26/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2048-build-array-from-permutation](https://github.com/gemy26/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gemy26/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/gemy26/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2211-count-collisions-on-a-road](https://github.com/gemy26/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2551-apply-operations-to-an-array](https://github.com/gemy26/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/gemy26/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -727,6 +728,7 @@
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gemy26/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gemy26/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/gemy26/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gemy26/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Tree
 |  |
