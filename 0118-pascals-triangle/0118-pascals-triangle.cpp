@@ -1,17 +1,22 @@
 class Solution {
 public:
-    vector<vector<int>> generate(int n) {
-        vector <vector <int>> ans;
-        ans.push_back({1});
-        for(int i = 1; i < n; i ++){
-            vector <int> temp;
+    vector<vector<int>> generate(int numRows) {
+        vector <vector<int>> pascal;
+        vector <int> temp;
+        pascal.push_back({1});
+        if(numRows == 1) return pascal;
+        pascal.push_back({1, 1});
+        int idx = 1;
+        while(numRows - 1 > idx) {
             temp.push_back(1);
-            for(int j = 1; j < ans[i - 1].size(); j ++){
-                temp.push_back(ans[i - 1][j - 1] + ans[i - 1][j]);
+            for(int i = 0; i + 1 < pascal[idx].size(); i ++){
+                temp.push_back(pascal[idx][i] + pascal[idx][i + 1]);
             }
             temp.push_back(1);
-            ans.push_back(temp);
+            pascal.push_back(temp);
+            temp.clear();
+            idx ++;
         }
-        return ans;
+        return pascal;
     }
 };
