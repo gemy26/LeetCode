@@ -2,24 +2,23 @@ class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
         sort(nums.begin(), nums.end());
+        vector <vector <int>> triplets;
         int n = nums.size();
-        vector<vector<int>> ans;
-        for (int i = 0; i < n - 2; i++) {
+        for(int i = 0; i < n - 2; i ++){
             if (i > 0 && nums[i] == nums[i - 1]) continue;
-            int j = n - 1, k = i + 1;
-            while (j > k) {
-                int sum = nums[i] + nums[j] + nums[k];
-                if (sum < 0) {
-                    k ++;
-                } else if (sum > 0) {
-                    j --;
+            int j = i + 1, k = n - 1;
+            while(k > j) {
+                if(-nums[i] == nums[j] + nums[k]) {
+                    triplets.push_back({nums[i], nums[j] ,nums[k]});
+                    j ++;
+                    while(nums[j] == nums[j - 1] && j < k) j ++;
+                }else if(-nums[i] > nums[j] + nums[k]) {
+                    j ++;
                 } else {
-                    ans.push_back({nums[i], nums[k], nums[j]});
-                    k ++;
-                    while(nums[k] == nums[k - 1] && k < j) k ++;
+                    k --;
                 }
             }
         }
-        return ans;
+        return triplets;
     }
 };
