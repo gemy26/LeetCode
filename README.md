@@ -16,6 +16,7 @@
 | [0242-valid-anagram](https://github.com/gemy26/LeetCode/tree/master/0242-valid-anagram) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/gemy26/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0796-rotate-string](https://github.com/gemy26/LeetCode/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/gemy26/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0952-word-subsets](https://github.com/gemy26/LeetCode/tree/master/0952-word-subsets) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/gemy26/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gemy26/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -420,6 +421,7 @@
 | [0042-trapping-rain-water](https://github.com/gemy26/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/gemy26/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/gemy26/LeetCode/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/gemy26/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/gemy26/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2211-count-collisions-on-a-road](https://github.com/gemy26/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/gemy26/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -827,4 +829,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gemy26/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/gemy26/LeetCode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
