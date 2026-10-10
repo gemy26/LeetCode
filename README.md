@@ -25,6 +25,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/gemy26/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/gemy26/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/gemy26/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gemy26/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/gemy26/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/gemy26/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/gemy26/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -384,6 +385,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gemy26/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/gemy26/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/gemy26/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gemy26/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/gemy26/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/gemy26/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/gemy26/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -422,6 +424,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/gemy26/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/gemy26/LeetCode/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/gemy26/LeetCode/tree/master/0856-score-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gemy26/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/gemy26/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2211-count-collisions-on-a-road](https://github.com/gemy26/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/gemy26/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -833,4 +836,5 @@
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/gemy26/LeetCode/tree/master/0856-score-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gemy26/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
