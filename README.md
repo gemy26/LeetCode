@@ -398,6 +398,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gemy26/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gemy26/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3689-maximum-total-subarray-value-i](https://github.com/gemy26/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/gemy26/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/gemy26/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/gemy26/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gemy26/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -668,6 +669,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/gemy26/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/gemy26/LeetCode/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/gemy26/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/gemy26/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3830-find-closest-person](https://github.com/gemy26/LeetCode/tree/master/3830-find-closest-person) |
 ## Simulation
 |  |
