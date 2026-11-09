@@ -13,9 +13,9 @@ public:
 
         vector <int> ans(queries.size());
         int l = 0, r = 0;
-        vector <int> frq(n + 1, 0);
+        vector <int> frq(1e5 + 2, 0);
         int active = 0;
-        for(auto& [q, i] : sortedQueries) {
+        for(auto [q, i] : sortedQueries) {
             int start = q - x;
             while(r < logs.size() && logs[r][1] <= q) {
                 if(frq[logs[r][0]] ++ == 0) {
